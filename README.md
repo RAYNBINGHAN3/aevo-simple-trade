@@ -6,9 +6,8 @@
 注意 直接采用demo跑可能存在磨损，只写了开多，开空只需要isBuy=false平仓单isBuy取反值
 demo节省你时间去看文档的基本开单接口
 
-## git或下载或者直接复制
-## 安装依赖： npm install
-## 运行 ： node ./index.js
+## 安装依赖：   npm install
+## 运行 ：   node ./index.js
 
 有时间继续添加开单策略 
 
